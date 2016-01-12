@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\workspace\Carpo\app\build\intermediates\exploded-aar\Carpo\volley\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="6680f189a67b89499ca690b3dc92934b8b14c610">
+        <dex dex="E:\workspace\Carpo\app\build\intermediates\pre-dexed\debug\classes-1248760f0d5286b4a46a55be14032481de5eacf7.jar" />
+    </item>
+
+</items>
